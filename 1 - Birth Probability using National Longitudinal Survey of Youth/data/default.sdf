@@ -1,0 +1,350 @@
+
+
+Reference
+Number     Year    Variable Description                                             Question Name  
+-----------------------------------------------------------------------------------------------------
+R00001.00  1979    IDENTIFICATION CODE                                              CASEID         
+R00106.00  1979    MARITAL STATUS                                                   MAR-1          
+R00115.00  1979    YEAR OF BIRTH OF MOST RECENT SPOUSE                              Q2-7_Y         
+R00172.00  1979    HIGHEST GRADE ATTENDED                                           Q3-3           
+R00173.00  1979    HIGHEST GRADE COMPLETED                                          Q3-4           
+R00705.00  1979    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R00706.00  1979    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R00707.00  1979    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R00708.00  1979    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R00709.00  1979    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R01736.00  1979    SAMPLE IDENTIFICATION CODE                                       SAMPLE_ID      
+R02147.00  78SCRN  R'S RACIAL/ETHNIC COHORT FROM SCREENER                           SAMPLE_RACE    
+R02148.00  1979    SEX OF R                                                         SAMPLE_SEX     
+R02149.01  1979    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R02157.00  1979    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R02165.00  1979    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R02175.01  1979    MARITAL STATUS                                                   MARSTAT-KEY    
+R02175.02  1979    FAMILY SIZE                                                      FAMSIZE        
+R02291.00  1980    HIGHEST GRADE ATTENDED                                           Q3-3           
+R02292.00  1980    HIGHEST GRADE COMPLETED                                          Q3-4           
+R03378.00  1980    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R03493.00  1980    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R03608.00  1980    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R03723.00  1980    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R03838.00  1980    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R04052.10  1980    FAMILY SIZE                                                      FAMSIZE        
+R04056.01  1980    MARITAL STATUS                                                   MARSTAT-KEY    
+R04063.01  1980    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R04065.10  1980    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R04072.00  1980    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R04173.00  1981    HIGHEST GRADE ATTENDED                                           Q3-3           
+R04174.00  1981    HIGHEST GRADE COMPLETED                                          Q3-4           
+R05456.00  1981    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R05587.00  1981    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R05718.00  1981    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R05849.00  1981    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R05980.00  1981    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R06186.01  1981    MARITAL STATUS                                                   MARSTAT-KEY    
+R06188.01  1981    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R06190.10  1981    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R06463.00  1981    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R06471.03  1981    FAMILY SIZE                                                      FAMSIZE        
+R06644.00  1982    HIGHEST GRADE ATTENDED                                           Q3-3           
+R06645.00  1982    HIGHEST GRADE COMPLETED                                          Q3-4           
+R08399.00  1982    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R08530.00  1982    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R08661.00  1982    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R08792.00  1982    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R08923.00  1982    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R08967.10  1982    FAMILY SIZE                                                      FAMSIZE        
+R08969.00  1982    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R08983.10  1982    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R08984.01  1982    MARITAL STATUS                                                   MARSTAT-KEY    
+R08985.01  1982    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R09058.00  1983    HIGHEST GRADE ATTENDED                                           Q3-3           
+R09059.00  1983    HIGHEST GRADE COMPLETED                                          Q3-4           
+R10873.00  1983    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R11005.00  1983    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R11137.00  1983    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R11269.00  1983    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R11401.00  1983    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R11444.10  1983    FAMILY SIZE                                                      FAMSIZE        
+R11447.01  1983    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R11449.01  1983    MARITAL STATUS                                                   MARSTAT-KEY    
+R11451.10  1983    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R11453.00  1983    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R12057.00  1984    HIGHEST GRADE ATTENDED                                           Q3-3           
+R12058.00  1984    HIGHEST GRADE COMPLETED                                          Q3-4           
+R14630.00  1984    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R14761.00  1984    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R14892.00  1984    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R15023.00  1984    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R15154.00  1984    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R15196.10  1984    FAMILY SIZE                                                      FAMSIZE        
+R15199.01  1984    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R15201.01  1984    MARITAL STATUS                                                   MARSTAT-KEY    
+R15203.10  1984    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R15205.00  1984    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R16050.00  1985    HIGHEST GRADE ATTENDED                                           Q3-3           
+R16051.00  1985    HIGHEST GRADE COMPLETED                                          Q3-4           
+R18098.00  1985    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R18225.00  1985    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R18352.00  1985    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R18479.00  1985    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R18606.00  1985    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R18902.10  1985    FAMILY SIZE                                                      FAMSIZE        
+R18906.01  1985    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R18908.01  1985    MARITAL STATUS                                                   MARSTAT-KEY    
+R18910.10  1985    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R18912.00  1985    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R19055.00  1986    HIGHEST GRADE ATTENDED                                           Q3-3           
+R19056.00  1986    HIGHEST GRADE COMPLETED                                          Q3-4           
+R21715.00  1986    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R21851.00  1986    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R21987.00  1986    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R22123.00  1986    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R22259.00  1986    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R22574.10  1986    FAMILY SIZE                                                      FAMSIZE        
+R22577.01  1986    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R22579.01  1986    MARITAL STATUS                                                   MARSTAT-KEY    
+R22581.10  1986    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R22583.00  1986    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R23064.00  1987    HIGHEST GRADE ATTENDED                                           Q3-3           
+R23065.00  1987    HIGHEST GRADE COMPLETED                                          Q3-4           
+R23763.00  1987    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R23876.00  1987    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R23989.00  1987    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R24102.00  1987    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R24215.00  1987    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R24446.10  1987    FAMILY SIZE                                                      FAMSIZE        
+R24451.01  1987    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R24453.01  1987    MARITAL STATUS                                                   MARSTAT-KEY    
+R24455.10  1987    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R24457.00  1987    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R25089.00  1988    HIGHEST GRADE ATTENDED                                           Q3-3           
+R25090.00  1988    HIGHEST GRADE COMPLETED                                          Q3-4           
+R27709.00  1988    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R27838.00  1988    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R27967.00  1988    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R28096.00  1988    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R28225.00  1988    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R28701.10  1988    FAMILY SIZE                                                      FAMSIZE        
+R28707.00  1988    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R28710.00  1988    MARITAL STATUS                                                   MARSTAT-KEY    
+R28713.00  1988    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R28715.00  1988    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R29080.00  1989    HIGHEST GRADE ATTENDED                                           Q3-3           
+R29081.00  1989    HIGHEST GRADE COMPLETED                                          Q3-4           
+R30127.00  1989    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R30258.00  1989    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R30389.00  1989    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R30520.00  1989    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R30651.00  1989    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R30739.10  1989    FAMILY SIZE                                                      FAMSIZE        
+R30744.00  1989    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R30747.00  1989    MARITAL STATUS                                                   MARSTAT-KEY    
+R30750.00  1989    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R30752.00  1989    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R31101.00  1990    HIGHEST GRADE ATTENDED                                           Q3-3           
+R31102.00  1990    HIGHEST GRADE COMPLETED                                          Q3-4           
+R33401.00  1990    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R33541.00  1990    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R33681.00  1990    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R33821.00  1990    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R33961.00  1990    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R34006.00  1990    FAMILY SIZE                                                      FAMSIZE        
+R34011.00  1990    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R34014.00  1990    MARITAL STATUS                                                   MARSTAT-KEY    
+R34017.00  1990    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R34019.00  1990    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R35101.00  1991    HIGHEST GRADE ATTENDED                                           Q3-3           
+R35102.00  1991    HIGHEST GRADE COMPLETED                                          Q3-4           
+R36044.00  1991    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R36165.00  1991    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R36286.00  1991    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R36407.00  1991    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R36528.00  1991    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R36560.00  1991    FAMILY SIZE                                                      FAMSIZE        
+R36565.00  1991    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R36568.00  1991    MARITAL STATUS                                                   MARSTAT-KEY    
+R36571.00  1991    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R36573.00  1991    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R37101.00  1992    HIGHEST GRADE ATTENDED                                           Q3-3           
+R37102.00  1992    HIGHEST GRADE COMPLETED                                          Q3-4           
+R39546.00  1992    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R39668.00  1992    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R39790.00  1992    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R39912.00  1992    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R40034.00  1992    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R40065.00  1992    FAMILY SIZE                                                      FAMSIZE        
+R40070.00  1992    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R40073.00  1992    MARITAL STATUS                                                   MARSTAT-KEY    
+R40076.00  1992    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R40078.00  1992    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R41378.00  1993    HIGHEST GRADE ATTENDED                                           Q3-3           
+R41379.00  1993    HIGHEST GRADE COMPLETED                                          Q3-4           
+R41932.00  1993    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R42055.00  1993    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R42127.00  1993    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R42203.00  1993    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R42278.00  1993    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R44176.00  1993    FAMILY SIZE                                                      FAMSIZE        
+R44181.00  1993    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R44184.00  1993    MARITAL STATUS                                                   MARSTAT-KEY    
+R44187.00  1993    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R44189.00  1993    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R45068.00  1994    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+R45068.01  1994    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+R45264.00  1994    HIGHEST GRADE ATTENDED                                           Q3-3           
+R45265.00  1994    HIGHEST GRADE COMPLETED                                          Q3-4           
+R45829.00  1994    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R46271.00  1994    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R46710.00  1994    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R47106.00  1994    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R47449.00  1994    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R50806.00  1994    FAMILY SIZE                                                      FAMSIZE        
+R50811.00  1994    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R50814.00  1994    MARITAL STATUS                                                   MARSTAT-KEY    
+R50817.00  1994    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R50819.00  1994    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R51659.00  1996    FAMILY SIZE                                                      FAMSIZE        
+R51664.00  1996    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R51667.00  1996    MARITAL STATUS                                                   MARSTAT-KEY    
+R51670.00  1996    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R51672.00  1996    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R52067.00  1996    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+R52067.01  1996    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+R52217.00  1996    HIGHEST GRADE ATTENDED                                           Q3-3           
+R52218.00  1996    HIGHEST GRADE COMPLETED                                          Q3-4           
+R52671.00  1996    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R53074.00  1996    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R53466.00  1996    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R53837.00  1996    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R54182.00  1996    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R58057.00  1998    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+R58057.01  1998    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+R58205.00  1998    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+R58217.00  1998    HIGHEST GRADE ATTENDED                                           Q3-3           
+R58218.00  1998    HIGHEST GRADE COMPLETED                                          Q3-4           
+R59126.00  1998    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R59127.00  1998    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R59128.00  1998    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R59129.00  1998    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R59130.00  1998    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R64786.00  1998    FAMILY SIZE                                                      FAMSIZE        
+R64790.00  1998    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+R64793.00  1998    MARITAL STATUS                                                   MARSTAT-KEY    
+R64798.00  1998    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R64800.00  1998    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R65380.00  2000    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+R65380.01  2000    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+R65392.00  2000    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+R65403.00  2000    HIGHEST GRADE ATTENDED                                           Q3-3           
+R65404.00  2000    HIGHEST GRADE COMPLETED                                          Q3-4           
+R65782.00  2000    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R65783.00  2000    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R65784.00  2000    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R65785.00  2000    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R65786.00  2000    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R68396.00  2000    NUMBER OF BIOLOGICAL CHILDREN REPORTED                           Q10-2          
+R70064.00  2000    FAMILY SIZE                                                      FAMSIZE        
+R70070.00  2000    MARITAL STATUS                                                   MARSTAT-KEY    
+R70075.00  2000    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R70077.00  2000    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R71012.00  2002    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+R71012.01  2002    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+R71024.00  2002    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+R71035.00  2002    HIGHEST GRADE ATTENDED                                           Q3-3           
+R71036.00  2002    HIGHEST GRADE COMPLETED                                          Q3-4           
+R71929.00  2002    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R71930.00  2002    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R71931.00  2002    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R71932.00  2002    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R71933.00  2002    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R75486.00  2002    NUMBER OF BIOLOGICAL CHILDREN REPORTED                           Q10-2          
+R77036.00  2002    FAMILY SIZE                                                      FAMSIZE        
+R77043.00  2002    MARITAL STATUS                                                   MARSTAT-KEY    
+R77048.00  2002    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R77050.00  2002    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+R78081.00  2004    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+R78081.01  2004    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+R78093.00  2004    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+R78104.00  2004    HIGHEST GRADE ATTENDED                                           Q3-3           
+R78105.00  2004    HIGHEST GRADE COMPLETED                                          Q3-4           
+R78796.00  2004    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+R78797.00  2004    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+R78798.00  2004    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+R78799.00  2004    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+R78800.00  2004    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+R82554.00  2004    NUMBER OF BIOLOGICAL CHILDREN REPORTED                           Q10-2          
+R84960.00  2004    FAMILY SIZE                                                      FAMSIZE        
+R84967.00  2004    MARITAL STATUS                                                   MARSTAT-KEY    
+R84972.00  2004    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+R84974.00  2004    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+T00120.00  2006    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+T00120.01  2006    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+T00132.00  2006    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+T00143.00  2006    HIGHEST GRADE ATTENDED                                           Q3-3           
+T00144.00  2006    HIGHEST GRADE COMPLETED                                          Q3-4           
+T01219.00  2006    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+T01220.00  2006    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+T01221.00  2006    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+T01222.00  2006    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+T01223.00  2006    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+T08571.00  2006    NUMBER OF BIOLOGICAL CHILDREN REPORTED                           Q10-2          
+T09876.00  2006    FAMILY SIZE                                                      FAMSIZE        
+T09882.00  2006    EMPLOYMENT STATUS RECODE (COLLAPSED)                             ESR_COL        
+T09885.00  2006    MARITAL STATUS                                                   MARSTAT-KEY    
+T09890.00  2006    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+T09892.00  2006    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+T12105.00  2008    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+T12105.01  2008    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+T12117.00  2008    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+T12142.00  2008    HIGHEST GRADE ATTENDED                                           Q3-3           
+T12143.00  2008    HIGHEST GRADE COMPLETED                                          Q3-4           
+T12818.00  2008    HOURS PER WEEK WORKED JOB #01                                    QES-52A.01     
+T12819.00  2008    HOURS PER WEEK WORKED JOB #02                                    QES-52A.02     
+T12820.00  2008    HOURS PER WEEK WORKED JOB #03                                    QES-52A.03     
+T12821.00  2008    HOURS PER WEEK WORKED JOB #04                                    QES-52A.04     
+T12822.00  2008    HOURS PER WEEK WORKED JOB #05                                    QES-52A.05     
+T20151.00  2008    NUMBER OF BIOLOGICAL CHILDREN REPORTED                           Q10-2          
+T22099.00  2008    FAMILY SIZE                                                      FAMSIZE        
+T22105.00  2008    MARITAL STATUS                                                   MARSTAT-KEY    
+T22108.00  2008    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+T22110.00  2008    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+T22704.00  2010    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+T22704.01  2010    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+T22716.00  2010    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+T22727.00  2010    HIGHEST GRADE ATTENDED                                           Q3-3           
+T22728.00  2010    HIGHEST GRADE COMPLETED                                          Q3-4           
+T29986.00  2010    NUMBER OF BIOLOGICAL CHILDREN REPORTED                           Q10-2          
+T31077.00  2010    FAMILY SIZE                                                      FAMSIZE        
+T31084.00  2010    MARITAL STATUS                                                   MARSTAT-KEY    
+T31087.00  2010    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+T31089.00  2010    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+T32069.00  2012    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+T32069.01  2012    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+T32093.00  2012    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+T32128.00  2012    HIGHEST GRADE ATTENDED                                           Q3-3           
+T32129.00  2012    HIGHEST GRADE COMPLETED                                          Q3-4           
+T39425.00  2012    NUMBER OF BIOLOGICAL CHILDREN REPORTED                           Q10-2          
+T41122.00  2012    FAMILY SIZE                                                      FAMSIZE        
+T41129.00  2012    MARITAL STATUS                                                   MARSTAT-KEY    
+T41132.00  2012    AGE OF R AT INTERVIEW DATE                                       AGEATINT       
+T41134.00  2012    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+T41949.00  2014    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+T41949.01  2014    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+T41977.00  2014    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+T42010.00  2014    HIGHEST GRADE ATTENDED                                           Q3-3           
+T42011.00  2014    HIGHEST GRADE COMPLETED                                          Q3-4           
+T48768.00  2014    NUMBER OF BIOLOGICAL CHILDREN REPORTED                           Q10-2          
+T50225.00  2014    FAMILY SIZE                                                      FAMSIZE        
+T50233.00  2014    MARITAL STATUS                                                   MARSTAT-KEY    
+T50236.00  2014    AGE AT INTERVIEW                                                 AGEATINT       
+T50248.00  2014    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
+T51735.00  2016    DATE OF BIRTH OF PARTNER                                         Q2-10B~M       
+T51735.01  2016    DATE OF BIRTH OF PARTNER                                         Q2-10B~Y       
+T51748.00  2016    DURATION OF CURRENT SPOUSE/PARTNER'S MOST RECENT PRIOR MARRIAGE  SPARMAR-5      
+T51760.00  2016    HIGHEST GRADE ATTENDED                                           Q3-3           
+T51761.00  2016    HIGHEST GRADE COMPLETED                                          Q3-4           
+T55930.00  2016    NUMBER OF BIOLOGICAL CHILDREN REPORTED                           Q10-2          
+T57707.00  2016    FAMILY SIZE                                                      FAMSIZE        
+T57712.00  2016    MARITAL STATUS                                                   MARSTAT-KEY    
+T57715.00  2016    AGE AT INTERVIEW                                                 AGEATINT       
+T57728.00  2016    NUMBER OF WEEKS WORKED IN PAST CALENDAR YEAR *KEY*               WKSWK-PCY      
